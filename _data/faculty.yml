@@ -1,0 +1,14 @@
+
+- name: Yang Cai
+  photo: yangcaiheadshot.png
+  info: Associate Professor
+  interest: Algorithmic Game Theory
+  email: yang.cai [at] yale.edu
+  homepage: http://www.cs.yale.edu/homes/cai/
+
+- name: Michael Fischer
+  photo: michaelheadshot.jpeg
+  info: Professor
+  interest: Theory of distributed systems, Crytographic protocols, Electronic voting systems, Theoretical issues in scalable parallel computing, and Analysis of algorithms and data structures
+  email: fischer-michael [at] cs.yale.edu
+  homepage: http://www.cs.yale.edu/homes/fischer/
