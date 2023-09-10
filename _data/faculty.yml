@@ -1,14 +1,36 @@
+- name: James Aspnes
+  photo: jamesaspnesheadshot.png
+  info: Harold W. Cheel Professor of Computer Science
+  interest: Distributed algorithms
+  email: james.aspnes [at] gmail.com
+  homepage: http://www.cs.yale.edu/homes/aspnes/
 
 - name: Yang Cai
   photo: yangcaiheadshot.png
-  info: Associate Professor
-  interest: Algorithmic Game Theory
+  info: Associate Professor of Computer Science and Economics (secondary appointment)
+  interest: Theory of computation, Economics and computation, Learning
   email: yang.cai [at] yale.edu
   homepage: http://www.cs.yale.edu/homes/cai/
 
+- name: Joan Feigenbaum
+  photo: joanfeigenbaumheadshot.png
+  info: Grace Murray Hopper Professor of Computer Science
+  interest: security, privacy, anonymity, and accountability; Internet algorithmics; and computational complexity
+  email: joan.feigenbaum [at] yale.edu
+  homepage: http://www.cs.yale.edu/homes/jf/
+
 - name: Michael Fischer
   photo: michaelheadshot.jpeg
-  info: Professor
-  interest: Theory of distributed systems, Crytographic protocols, Electronic voting systems, Theoretical issues in scalable parallel computing, and Analysis of algorithms and data structures
+  info: Professor of Computer Science
+  interest: Theory of distributed systems, Crytographic protocols, Electronic voting systems, 
+   Theoretical issues in scalable parallel computing, and Analysis of algorithms and data structures
   email: fischer-michael [at] cs.yale.edu
   homepage: http://www.cs.yale.edu/homes/fischer/
+
+- name: Daniel A. Spielman
+  photo: danielspielmanheadshot.png
+  info: Sterling Professor of Computer Science, Professor Statistics and Data Science and of Mathematics
+  interest: the design and analysis of algorithms, network science, machine learning, digital communications
+   and scientific computing
+  email: daniel.spielman [at] yale.edu
+  homepage: http://www.cs.yale.edu/homes/spielman/
