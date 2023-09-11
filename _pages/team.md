@@ -1,6 +1,6 @@
 ---
 title: "Team"
-layout: default
+layout: gridlay
 sitemap: false
 permalink: /team/
 ---
@@ -30,7 +30,7 @@ permalink: /team/
     <h4>{{ member.name }}</h4>
     <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" alt="{{ member.name }}">
 </div>
-{% endfor %}
 
 
 </div>
+{% endraw %}
