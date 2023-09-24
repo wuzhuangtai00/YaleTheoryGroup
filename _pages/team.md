@@ -33,4 +33,4 @@ permalink: /team/
 
 
 </div>
-{% endraw %}
+{% endfor %}
