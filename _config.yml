@@ -32,9 +32,10 @@ nav_pages:
   # - name: talks
   # - name: research
   # - name: software
-  # - name: team
+  - name: team
   - name: faculty
   - name: students
+  - name: Alumni
   # - name: teaching
 
 include:
