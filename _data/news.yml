@@ -5,6 +5,10 @@
 # - date: November 2, 2022
   # headline: <a href=https://cpsc.yale.edu/news/yang-cai-wins-test-time-award-focs-2022>Yang Cai wins Test of Time Award at FOCS 2022</a></p>
 
+- date: April 10, 2023
+  headline: Argyris Oikonomou selected as a winner for the Meta Research PhD Fellowship
+  link: https://cpsc.yale.edu/news/argyris-oikonomou-selected-winner-meta-research-phd-fellowship
+
 - date: November 2, 2022
   headline: Yang Cai wins Test of Time Award at FOCS 2022
   link: https://cpsc.yale.edu/news/yang-cai-wins-test-time-award-focs-2022
@@ -14,4 +18,22 @@
   headline:  Daniel Spielman wins prestigious Breakthrough Prize
   link: https://cpsc.yale.edu/news/daniel-spielman-wins-prestigious-breakthrough-prize
 
-  
+- date: January 31, 2022
+  headline: James Aspnes named Harold W. Cheel Professor of Computer Science
+  link: https://cpsc.yale.edu/news/james-aspnes-named-harold-w-cheel-professor-computer-science
+
+- date: December 2, 2021
+  headline: Daniel Spielman receives AMS Ciprian Foias Prize
+  link: https://cpsc.yale.edu/news/daniel-spielman-receives-ams-ciprian-foias-prize
+
+- date: June 24, 2021
+  headline: Dan Spielman wins the 2021 STOC Test of Time Award
+  link: https://cpsc.yale.edu/news/dan-spielman-wins-2021-stoc-test-time-award
+
+- date: March 8, 2021
+  headline: Nisheeth K. Vishnoi appointed A. Bartlett Giamatti Professor
+  link: https://cpsc.yale.edu/news/nisheeth-k-vishnoi-appointed-bartlett-giamatti-professor
+
+- date: January 22, 2021
+  headline: Daniel Spielman wins Held Prize for solving decades-old problem
+  link: https://cpsc.yale.edu/news/daniel-spielman-wins-held-prize-solving-decades-old-problem

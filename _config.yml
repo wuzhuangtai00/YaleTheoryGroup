@@ -36,6 +36,8 @@ nav_pages:
   - name: faculty
   - name: students
   - name: Alumni
+  - name: news
+  - name: Awards and Honors
   # - name: teaching
 
 include:

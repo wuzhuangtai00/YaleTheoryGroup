@@ -2,7 +2,7 @@
 title: "News"
 layout: textlay
 sitemap: false
-permalink: /allnews.html
+permalink: /news.html
 ---
 
 ## News
@@ -10,8 +10,7 @@ permalink: /allnews.html
 <div class="jumbotron">
 
 {% for article in site.data.news %}
-<b>{{ article.date }}</b>
-
+<h5>{{ article.date }}</h5>
 <!-- <a href={{ article.link }}>{{ article.headline }}</a> -->
 {% if article.link == null %}
 {{article.headline}}
