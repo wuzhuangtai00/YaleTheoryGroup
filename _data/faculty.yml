@@ -27,6 +27,13 @@
   email: fischer-michael [at] cs.yale.edu
   homepage: http://www.cs.yale.edu/homes/fischer/
 
+- name: Anna C. Gilbert
+  photo: annagilbertheadshot.jpeg
+  info: John C. Malone Professor of Applied Mathematics, Professor of Statistics & Data Science and Electrical Engineering
+  interest: analysis, probability, discrete mathematics, and algorithms. I am especially interested in randomized algorithms with applications to harmonic analysis, signal and image processing, and massive datasets
+  email: anna.gilbert [at] yale.edu
+  homepage: https://annacgilbert.github.io/
+
 - name: Daniel A. Spielman
   photo: danielspielmanheadshot.png
   info: Sterling Professor of Computer Science, Professor Statistics and Data Science and of Mathematics
