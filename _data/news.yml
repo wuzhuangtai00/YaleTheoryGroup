@@ -1,26 +1,17 @@
-- date: 1 January, 1941
-  headline: "Example news here"
+- date: October 24, 2023
+  headline: New website!
+  link: null
 
-- date: 1 January, 1940
-  headline: "Example news here"
+# - date: November 2, 2022
+  # headline: <a href=https://cpsc.yale.edu/news/yang-cai-wins-test-time-award-focs-2022>Yang Cai wins Test of Time Award at FOCS 2022</a></p>
 
+- date: November 2, 2022
+  headline: Yang Cai wins Test of Time Award at FOCS 2022
+  link: https://cpsc.yale.edu/news/yang-cai-wins-test-time-award-focs-2022
+  
 
-- date: 1 January, 1940
-  headline: "Example news here"
+- date: September 22, 2022
+  headline:  Daniel Spielman wins prestigious Breakthrough Prize
+  link: https://cpsc.yale.edu/news/daniel-spielman-wins-prestigious-breakthrough-prize
 
-- date: 1 January, 1940
-  headline: "Example news here"
-
-- date: 1 January, 1940
-  headline: "Example news here"
-- date: 1 January, 1940
-  headline: "Example news here"
-- date: 1 January, 1940
-  headline: "Example news here"
-- date: 1 January, 1940
-  headline: "Example news here"
-- date: 1 January, 1940
-  headline: "Example news here"
-- date: 1 January, 1940
-  headline: "Example news here"
   
