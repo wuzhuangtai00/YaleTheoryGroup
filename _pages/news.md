@@ -2,7 +2,7 @@
 title: "News"
 layout: textlay
 sitemap: false
-permalink: https://www.cs.yale.edu/theory/news.html
+permalink: /news.html
 ---
 
 ## News

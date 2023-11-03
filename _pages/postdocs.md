@@ -2,7 +2,7 @@
 title: "Postdocs"
 layout: gridlay
 sitemap: false
-permalink: https://www.cs.yale.edu/theory/postdocs.html
+permalink: /postdocs.html
 ---
 
 <h5> Information on this page may be incomplete and needs to be updated </h5>
