@@ -2,8 +2,8 @@
 title: Yale Theory Group
 # email: richard@university.edu
 description: 
-baseurl: 
-url: https://www.cs.yale.edu/theory
+baseurl: /theory
+url: https://www.cs.yale.edu
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
