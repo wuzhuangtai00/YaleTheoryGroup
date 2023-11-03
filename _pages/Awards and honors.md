@@ -2,7 +2,7 @@
 title: "Awards and Honors"
 layout: textlay
 sitemap: false
-permalink: /Awards and honors.html
+permalink: https://www.cs.yale.edu/theory/Awards and honors.html
 ---
 
 ## Awards and Honors

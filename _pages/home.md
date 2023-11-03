@@ -2,7 +2,7 @@
 title: "Home"
 layout: homelay
 sitemap: false
-permalink: /
+permalink: https://www.cs.yale.edu/theory/
 ---
 
 

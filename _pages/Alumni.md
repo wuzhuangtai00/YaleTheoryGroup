@@ -2,7 +2,7 @@
 title: "Alumni"
 layout: gridlay
 sitemap: false
-permalink: /alumni/
+permalink: https://www.cs.yale.edu/theory/alumni.html
 ---
 
 <style>

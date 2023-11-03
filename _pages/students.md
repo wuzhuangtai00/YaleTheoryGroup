@@ -2,7 +2,7 @@
 title: "Students"
 layout: gridlay
 sitemap: false
-permalink: /students/
+permalink: https://www.cs.yale.edu/theory/students.html
 ---
 
 <h5> Information on this page may be incomplete and needs to be updated </h5>

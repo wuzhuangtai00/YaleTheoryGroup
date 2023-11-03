@@ -2,7 +2,7 @@
 title: "Faculty"
 layout: gridlay
 sitemap: false
-permalink: /faculty/
+permalink: https://www.cs.yale.edu/theory/faculty.html
 ---
 
 {% for member in site.data.faculty %}
