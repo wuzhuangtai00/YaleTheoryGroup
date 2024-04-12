@@ -2,7 +2,7 @@
 title: "Alumni"
 layout: gridlay
 sitemap: false
-permalink: /alumni.html
+permalink: /alumni/
 ---
 
 <style>

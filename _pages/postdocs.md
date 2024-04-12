@@ -2,7 +2,7 @@
 title: "Postdocs"
 layout: gridlay
 sitemap: false
-permalink: /postdocs.html
+permalink: /postdocs/
 ---
 
 <h5> Information on this page may be incomplete and needs to be updated </h5>

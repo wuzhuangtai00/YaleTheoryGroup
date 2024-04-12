@@ -2,7 +2,7 @@
 title: "Awards and Honors"
 layout: textlay
 sitemap: false
-permalink: /Awards and honors.html
+permalink: /awards and honors/
 ---
 
 ## Awards and Honors

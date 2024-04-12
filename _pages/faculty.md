@@ -2,7 +2,7 @@
 title: "Faculty"
 layout: gridlay
 sitemap: false
-permalink: /faculty.html
+permalink: /faculty/
 ---
 
 {% for member in site.data.faculty %}
