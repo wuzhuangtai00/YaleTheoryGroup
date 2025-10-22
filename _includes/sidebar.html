@@ -71,6 +71,20 @@
   <!-- <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5> -->
 
 </div>
+<div class="jumbotron">
+  <h4>CS Theory Mailing List</h4>
+
+  <p> Join our <a href="https://mailman.yale.edu/mailman/listinfo/yalecstheory" target="_blank">mailing list</a> to receive updates and announcements. </p>
+ 
+  {% for article in site.data.upcoming limit:5 %}
+  <b>{{ article.date }}</b>
+    <p>{{ article.headline }}</p>
+  {% endfor %}
+  
+  <!-- <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5> -->
+
+</div>
+
 
 <div class="jumbotron">
   <h4>News</h4>
